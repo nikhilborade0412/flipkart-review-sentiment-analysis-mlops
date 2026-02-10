@@ -1,7 +1,7 @@
 # 🛒 Flipkart Review Sentiment Analysis using mlflow  
 ### NLP · Machine Learning · MLflow · MLOps
 
-![Project Banner](./banner.png)
+![Project Banner](https://github.com/nikhilborade0412/flipkart-review-sentiment-analysis/blob/main/images/banner.png)
 
 ---
 
@@ -28,6 +28,13 @@
 The **Flipkart Review Sentiment Analysis Project** is an end-to-end **Natural Language Processing (NLP)** and **Machine Learning** solution that analyzes customer reviews and classifies them into **Positive** or **Negative** sentiments.
 
 This project integrates **MLflow** for **experiment tracking, model management, and reproducibility**, following real-world **MLOps best practices**.
+
+
+---
+<h2><a class="anchor" id="application-preview"></a>Application Preview</h2>
+
+[Live Demo](http://13.126.219.228:8501/)
+![App Screenshot](https://github.com/nikhilborade0412/flipkart-review-sentiment-analysis/blob/main/images/app.png)
 
 ---
 
